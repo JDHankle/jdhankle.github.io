@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://jdhankle.github.io/blog/2015/02/16/japanese-aliens/</loc>
+    <lastmod>2015-02-16T01:55:47-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://jdhankle.github.io/blog/2015/02/16/nothing-to-do/</loc>
     <lastmod>2015-02-16T01:20:37-05:00</lastmod>
   </url>
@@ -18,30 +22,30 @@
   </url>
   <url>
     <loc>http://jdhankle.github.io/blog/archives/</loc>
-    <lastmod>2015-02-16T01:35:11-05:00</lastmod>
+    <lastmod>2015-02-16T01:57:56-05:00</lastmod>
   </url>
   <url>
     <loc>http://jdhankle.github.io/blog/</loc>
-    <lastmod>2015-02-16T01:35:11-05:00</lastmod>
+    <lastmod>2015-02-16T01:57:56-05:00</lastmod>
   </url>
   <url>
     <loc>http://jdhankle.github.io/archives/</loc>
-    <lastmod>2015-02-16T01:35:11-05:00</lastmod>
+    <lastmod>2015-02-16T01:57:56-05:00</lastmod>
   </url>
   <url>
     <loc>http://jdhankle.github.io/</loc>
-    <lastmod>2015-02-16T01:35:11-05:00</lastmod>
+    <lastmod>2015-02-16T01:57:56-05:00</lastmod>
   </url>
   <url>
     <loc>http://jdhankle.github.io/new-page/</loc>
-    <lastmod>2015-02-16T01:35:11-05:00</lastmod>
+    <lastmod>2015-02-16T01:57:56-05:00</lastmod>
   </url>
   <url>
     <loc>http://jdhankle.github.io/contact/</loc>
-    <lastmod>2015-02-16T01:35:11-05:00</lastmod>
+    <lastmod>2015-02-16T01:57:56-05:00</lastmod>
   </url>
   <url>
     <loc>http://jdhankle.github.io/about/</loc>
-    <lastmod>2015-02-16T01:35:11-05:00</lastmod>
+    <lastmod>2015-02-16T01:57:56-05:00</lastmod>
   </url>
 </urlset>

@@ -4,7 +4,7 @@
   <title><![CDATA[A Thousand Tiny Cuts]]></title>
   <link href="http://jdhankle.github.io/atom.xml" rel="self"/>
   <link href="http://jdhankle.github.io/"/>
-  <updated>2015-02-16T01:35:11-05:00</updated>
+  <updated>2015-02-16T01:57:56-05:00</updated>
   <id>http://jdhankle.github.io/</id>
   <author>
     <name><![CDATA[Jared Hankle]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Japanese Aliens.]]></title>
+    <link href="http://jdhankle.github.io/blog/2015/02/16/japanese-aliens/"/>
+    <updated>2015-02-16T01:55:47-05:00</updated>
+    <id>http://jdhankle.github.io/blog/2015/02/16/japanese-aliens</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://jdhankle.github.io/images/jitsu.jpg" width="500"></p>
+
+<p><img class="center" src="http://jdhankle.github.io/images/aliens.jpg" width="500"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nothing to do.]]></title>
