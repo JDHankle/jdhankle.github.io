@@ -4,7 +4,7 @@
   <title><![CDATA[A Thousand Tiny Cuts]]></title>
   <link href="http://jdhankle.github.io/atom.xml" rel="self"/>
   <link href="http://jdhankle.github.io/"/>
-  <updated>2015-02-16T02:01:06-05:00</updated>
+  <updated>2015-02-16T03:34:45-05:00</updated>
   <id>http://jdhankle.github.io/</id>
   <author>
     <name><![CDATA[Jared Hankle]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Unusual Entities Glitch Remix]]></title>
+    <link href="http://jdhankle.github.io/blog/2015/02/16/unusual-entities-glitch-remix/"/>
+    <updated>2015-02-16T03:25:21-05:00</updated>
+    <id>http://jdhankle.github.io/blog/2015/02/16/unusual-entities-glitch-remix</id>
+    <content type="html"><![CDATA[<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/47229514&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Japanese Aliens.]]></title>
