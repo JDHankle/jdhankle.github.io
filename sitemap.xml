@@ -1,39 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://jdhankle.com/blog/2015/02/16/anki-is-my-best-friend/</loc>
+    <loc>http:///blog/2015/02/16/nothing-to-do/</loc>
+    <lastmod>2015-02-16T01:20:37-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http:///blog/2015/02/16/echo-he-yi-fu/</loc>
+    <lastmod>2015-02-16T01:01:25-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http:///blog/2015/02/16/anki-is-my-best-friend/</loc>
     <lastmod>2015-02-16T00:31:03-05:00</lastmod>
   </url>
   <url>
-    <loc>http://jdhankle.com/blog/2015/02/16/new-computer/</loc>
+    <loc>http:///blog/2015/02/16/new-computer/</loc>
     <lastmod>2015-02-16T00:02:55-05:00</lastmod>
   </url>
   <url>
-    <loc>http://jdhankle.com/blog/archives/</loc>
-    <lastmod>2015-02-16T00:38:18-05:00</lastmod>
+    <loc>http:///blog/archives/</loc>
+    <lastmod>2015-02-16T01:30:34-05:00</lastmod>
   </url>
   <url>
-    <loc>http://jdhankle.com/blog/</loc>
-    <lastmod>2015-02-16T00:38:18-05:00</lastmod>
+    <loc>http:///blog/</loc>
+    <lastmod>2015-02-16T01:30:34-05:00</lastmod>
   </url>
   <url>
-    <loc>http://jdhankle.com/archives/</loc>
-    <lastmod>2015-02-16T00:38:18-05:00</lastmod>
+    <loc>http:///archives/</loc>
+    <lastmod>2015-02-16T01:30:34-05:00</lastmod>
   </url>
   <url>
-    <loc>http://jdhankle.com/</loc>
-    <lastmod>2015-02-16T00:38:18-05:00</lastmod>
+    <loc>http:///</loc>
+    <lastmod>2015-02-16T01:30:34-05:00</lastmod>
   </url>
   <url>
-    <loc>http://jdhankle.com/new-page/</loc>
-    <lastmod>2015-02-16T00:38:18-05:00</lastmod>
+    <loc>http:///new-page/</loc>
+    <lastmod>2015-02-16T01:30:34-05:00</lastmod>
   </url>
   <url>
-    <loc>http://jdhankle.com/contact/</loc>
-    <lastmod>2015-02-16T00:38:18-05:00</lastmod>
+    <loc>http:///contact/</loc>
+    <lastmod>2015-02-16T01:30:34-05:00</lastmod>
   </url>
   <url>
-    <loc>http://jdhankle.com/about/</loc>
-    <lastmod>2015-02-16T00:38:18-05:00</lastmod>
+    <loc>http:///about/</loc>
+    <lastmod>2015-02-16T01:30:34-05:00</lastmod>
   </url>
 </urlset>
