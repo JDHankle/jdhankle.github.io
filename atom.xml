@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[A Thousand Tiny Cuts]]></title>
+  <link href="http://jdhankle.com/atom.xml" rel="self"/>
+  <link href="http://jdhankle.com/"/>
+  <updated>2015-02-16T00:38:18-05:00</updated>
+  <id>http://jdhankle.com/</id>
+  <author>
+    <name><![CDATA[Jared Hankle]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Anki is my best friend.]]></title>
+    <link href="http://jdhankle.com/blog/2015/02/16/anki-is-my-best-friend/"/>
+    <updated>2015-02-16T00:31:03-05:00</updated>
+    <id>http://jdhankle.com/blog/2015/02/16/anki-is-my-best-friend</id>
+    <content type="html"><![CDATA[<p>&lt;3</p>
+
+<p><img class="center" src="http://jdhankle.com/images/anki.png" width="350"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[New Computer]]></title>
+    <link href="http://jdhankle.com/blog/2015/02/16/new-computer/"/>
+    <updated>2015-02-16T00:02:55-05:00</updated>
+    <id>http://jdhankle.com/blog/2015/02/16/new-computer</id>
+    <content type="html"><![CDATA[<p>I got my new computer from Newegg. Its an HP Elitebook.</p>
+
+<p><img class="center" src="http://jdhankle.com/images/hp-elite.jpg" width="350"></p>
+
+<p>I want to move my development envrionment back to something I&rsquo;m a
+little more comfortable with. Namely, Linux.</p>
+
+<p><img class="center" src="http://jdhankle.com/images/desktop.png" width="350"></p>
+
+<p>I jacked a few config files from the internet to get me started. Once
+I get something more final I will post my dotfiles on github.</p>
+
+<p>じゃな</p>
+]]></content>
+  </entry>
+  
+</feed>
