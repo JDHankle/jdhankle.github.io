@@ -4,7 +4,7 @@
   <title><![CDATA[A Thousand Tiny Cuts]]></title>
   <link href="http://jdhankle.github.io/atom.xml" rel="self"/>
   <link href="http://jdhankle.github.io/"/>
-  <updated>2015-02-16T23:02:20-05:00</updated>
+  <updated>2015-02-16T23:34:11-05:00</updated>
   <id>http://jdhankle.github.io/</id>
   <author>
     <name><![CDATA[Jared Hankle]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Disable Plugin, Plugin]]></title>
+    <link href="http://jdhankle.github.io/blog/2015/02/16/disable-plugin/"/>
+    <updated>2015-02-16T23:31:45-05:00</updated>
+    <id>http://jdhankle.github.io/blog/2015/02/16/disable-plugin</id>
+    <content type="html"><![CDATA[<p>Allows you to create a plugin that disables and enables Cinch plugins.</p>
+
+<div><script src='https://gist.github.com/9f070c089ce1de666148.js'></script>
+<noscript><pre><code>def plugins_disable( m, name )
+
+  # Get a plugin with a matching name.
+  plugins = bot.plugins.select do |p|
+    p.class.plugin_name == name
+  end
+
+  if plugins.empty? # An empty array means no match.
+    m.reply &quot;No such plugin.&quot;
+    return
+  end
+
+  # We need an instance of a plugin to unregister it.
+  bot.plugins.unregister_plugin(plugins[0])
+  
+  m.reply &quot;Plugin #{name} has been disabled.&quot;
+end
+</code></pre></noscript></div>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Happiness And Peace of Mind Committee]]></title>

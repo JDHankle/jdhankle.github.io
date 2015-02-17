@@ -49,6 +49,49 @@
 		<span class="post-meta">16 Feb 2015</span>
 		<h2 class="post-title">
 			
+			<a href="/blog/2015/02/16/disable-plugin/">
+			
+				Disable Plugin, Plugin</a>
+		</h2>
+	</header>
+	<section class="post-excerpt">
+		<p>Allows you to create a plugin that disables and enables Cinch plugins.</p>
+
+<div><script src='https://gist.github.com/9f070c089ce1de666148.js'></script>
+<noscript><pre><code>def plugins_disable( m, name )
+
+  # Get a plugin with a matching name.
+  plugins = bot.plugins.select do |p|
+    p.class.plugin_name == name
+  end
+
+  if plugins.empty? # An empty array means no match.
+    m.reply &quot;No such plugin.&quot;
+    return
+  end
+
+  # We need an instance of a plugin to unregister it.
+  bot.plugins.unregister_plugin(plugins[0])
+  
+  m.reply &quot;Plugin #{name} has been disabled.&quot;
+end
+</code></pre></noscript></div>
+
+
+
+
+	</section>
+
+    </article>
+
+  
+    <article class="post">
+      
+	
+	<header class="post-header">
+		<span class="post-meta">16 Feb 2015</span>
+		<h2 class="post-title">
+			
 			<a href="/blog/2015/02/16/happiness-and-peace-of-mind-committee/">
 			
 				Happiness and Peace of Mind Committee</a>
