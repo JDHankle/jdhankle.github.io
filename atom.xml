@@ -4,7 +4,7 @@
   <title><![CDATA[A Thousand Tiny Cuts]]></title>
   <link href="http://jdhankle.github.io/atom.xml" rel="self"/>
   <link href="http://jdhankle.github.io/"/>
-  <updated>2015-02-16T03:34:45-05:00</updated>
+  <updated>2015-02-16T19:47:29-05:00</updated>
   <id>http://jdhankle.github.io/</id>
   <author>
     <name><![CDATA[Jared Hankle]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Simple Soundcloud Octopress Plugin]]></title>
+    <link href="http://jdhankle.github.io/blog/2015/02/16/simple-soundcloud-octopress-plugin/"/>
+    <updated>2015-02-16T19:43:04-05:00</updated>
+    <id>http://jdhankle.github.io/blog/2015/02/16/simple-soundcloud-octopress-plugin</id>
+    <content type="html"><![CDATA[<p>Add it to your plugins folder.</p>
+
+<div><script src='https://gist.github.com/c1572a89430b33c33dc4.js'></script>
+<noscript><pre><code># coding: utf-8
+# Title: SoundCloud plugin for Jekyll
+# Author: Jared Hankle (jdhankle.github.io)
+# Description: Generates a vanilla soundcloud embed.
+# Syntax: {% soundcloud track_id %}
+
+module Jekyll
+  class SoundCloud &lt; Liquid::Tag
+
+    def initialize(name, id, tokens)
+      super
+      @id = id
+    end
+
+
+    def render(context)
+      %(&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/#{@id.strip}&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;)
+    end
+  end
+end
+
+Liquid::Template.register_tag(&#39;soundcloud&#39;, Jekyll::SoundCloud)
+</code></pre></noscript></div>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Unusual Entities Glitch Remix]]></title>
