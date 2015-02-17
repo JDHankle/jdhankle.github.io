@@ -4,7 +4,7 @@
   <title><![CDATA[A Thousand Tiny Cuts]]></title>
   <link href="http://jdhankle.github.io/atom.xml" rel="self"/>
   <link href="http://jdhankle.github.io/"/>
-  <updated>2015-02-16T19:47:29-05:00</updated>
+  <updated>2015-02-16T23:02:20-05:00</updated>
   <id>http://jdhankle.github.io/</id>
   <author>
     <name><![CDATA[Jared Hankle]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Happiness And Peace of Mind Committee]]></title>
+    <link href="http://jdhankle.github.io/blog/2015/02/16/happiness-and-peace-of-mind-committee/"/>
+    <updated>2015-02-16T22:59:32-05:00</updated>
+    <id>http://jdhankle.github.io/blog/2015/02/16/happiness-and-peace-of-mind-committee</id>
+    <content type="html"><![CDATA[<p>我々、幸福安心委員会は　みなさまの幸せを願い　そして、支えまーす。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Simple Soundcloud Octopress Plugin]]></title>
