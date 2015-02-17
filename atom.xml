@@ -4,7 +4,7 @@
   <title><![CDATA[A Thousand Tiny Cuts]]></title>
   <link href="http://jdhankle.github.io/atom.xml" rel="self"/>
   <link href="http://jdhankle.github.io/"/>
-  <updated>2015-02-16T23:34:11-05:00</updated>
+  <updated>2015-02-17T02:41:22-05:00</updated>
   <id>http://jdhankle.github.io/</id>
   <author>
     <name><![CDATA[Jared Hankle]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ヒビカセ]]></title>
+    <link href="http://jdhankle.github.io/blog/2015/02/17/hibikase/"/>
+    <updated>2015-02-17T02:38:12-05:00</updated>
+    <id>http://jdhankle.github.io/blog/2015/02/17/hibikase</id>
+    <content type="html"><![CDATA[<p>感覚　即　体感</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/TkroHwQYpFE" allowfullscreen></iframe></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Disable Plugin, Plugin]]></title>
