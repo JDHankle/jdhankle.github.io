@@ -4,7 +4,7 @@
   <title><![CDATA[A Thousand Tiny Cuts]]></title>
   <link href="http://jdhankle.github.io/atom.xml" rel="self"/>
   <link href="http://jdhankle.github.io/"/>
-  <updated>2015-03-13T01:34:41-04:00</updated>
+  <updated>2015-03-13T01:58:22-04:00</updated>
   <id>http://jdhankle.github.io/</id>
   <author>
     <name><![CDATA[Jared Hankle]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Possible API for Moonflower]]></title>
+    <link href="http://jdhankle.github.io/blog/2015/03/13/possible-api-for-moonflower/"/>
+    <updated>2015-03-13T01:55:43-04:00</updated>
+    <id>http://jdhankle.github.io/blog/2015/03/13/possible-api-for-moonflower</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve been thinking about an API for a node-based IRC bot.
+This is what I&rsquo;m thnking.</p>
+
+<p>Some hints taken from <a href="https://github.com/martynsmith/node-irc">node-irc</a>.</p>
+
+<div><script src='https://gist.github.com/52e9f9c26c775fc79767.js'></script>
+<noscript><pre><code>var bot = new moonflower(&#39;irc.choopa.net&#39;, &#39;moonbot&#39;, {
+    channels: [&#39;#ajatt&#39;]
+});
+
+bot.addListener(&#39;join&#39;, function(message) {
+    if (message.user.match(&#39;*!*@jdhankle.com&#39;)) {
+        // They will be given ops in message.channel.
+        bot.op(message.user.nickname);
+    }
+});
+</code></pre></noscript></div>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[nyan cat]]></title>
