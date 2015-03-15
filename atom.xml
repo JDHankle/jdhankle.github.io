@@ -4,7 +4,7 @@
   <title><![CDATA[A Thousand Tiny Cuts]]></title>
   <link href="http://jdhankle.github.io/atom.xml" rel="self"/>
   <link href="http://jdhankle.github.io/"/>
-  <updated>2015-03-13T02:37:11-04:00</updated>
+  <updated>2015-03-15T01:59:46-04:00</updated>
   <id>http://jdhankle.github.io/</id>
   <author>
     <name><![CDATA[Jared Hankle]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nyan Terminal]]></title>
+    <link href="http://jdhankle.github.io/blog/2015/03/15/nyan-terminal/"/>
+    <updated>2015-03-15T01:52:49-04:00</updated>
+    <id>http://jdhankle.github.io/blog/2015/03/15/nyan-terminal</id>
+    <content type="html"><![CDATA[<p>MOAR NYAN</p>
+
+<div><script src='https://gist.github.com/b5dcea2fa96ffc77cb9e.js'></script>
+<noscript><pre><code>telnet nyancat.dakko.us</code></pre></noscript></div>
+
+
+<p><img src="http://jdhankle.github.io/images/nyan-terminal.png"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Redshift]]></title>
