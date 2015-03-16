@@ -4,7 +4,7 @@
   <title><![CDATA[A Thousand Tiny Cuts]]></title>
   <link href="http://jdhankle.github.io/atom.xml" rel="self"/>
   <link href="http://jdhankle.github.io/"/>
-  <updated>2015-03-15T23:56:17-04:00</updated>
+  <updated>2015-03-16T00:06:27-04:00</updated>
   <id>http://jdhankle.github.io/</id>
   <author>
     <name><![CDATA[Jared Hankle]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[We Are The Hearts]]></title>
+    <link href="http://jdhankle.github.io/blog/2015/03/16/we-are-the-hearts/"/>
+    <updated>2015-03-16T00:05:51-04:00</updated>
+    <id>http://jdhankle.github.io/blog/2015/03/16/we-are-the-hearts</id>
+    <content type="html"><![CDATA[<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/187426021&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nyan Terminal]]></title>
