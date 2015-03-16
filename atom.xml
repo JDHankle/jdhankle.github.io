@@ -4,7 +4,7 @@
   <title><![CDATA[A Thousand Tiny Cuts]]></title>
   <link href="http://jdhankle.github.io/atom.xml" rel="self"/>
   <link href="http://jdhankle.github.io/"/>
-  <updated>2015-03-16T00:06:27-04:00</updated>
+  <updated>2015-03-16T04:02:35-04:00</updated>
   <id>http://jdhankle.github.io/</id>
   <author>
     <name><![CDATA[Jared Hankle]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ouch]]></title>
+    <link href="http://jdhankle.github.io/blog/2015/03/16/ouch/"/>
+    <updated>2015-03-16T03:59:35-04:00</updated>
+    <id>http://jdhankle.github.io/blog/2015/03/16/ouch</id>
+    <content type="html"><![CDATA[<p>Dat friend zone.</p>
+
+<p><img src="http://jdhankle.github.io/images/friend-zone.png"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[We Are The Hearts]]></title>

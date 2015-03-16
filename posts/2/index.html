@@ -50,6 +50,55 @@
 		<span class="post-meta">16 Feb 2015</span>
 		<h2 class="post-title">
 			
+			<a href="/blog/2015/02/16/simple-soundcloud-octopress-plugin/">
+			
+				Simple Soundcloud Octopress Plugin</a>
+		</h2>
+	</header>
+	<section class="post-excerpt post-content">
+		<p>Add it to your plugins folder.</p>
+
+<div><script src='https://gist.github.com/c1572a89430b33c33dc4.js'></script>
+<noscript><pre><code># coding: utf-8
+# Title: SoundCloud plugin for Jekyll
+# Author: Jared Hankle (jdhankle.github.io)
+# Description: Generates a vanilla soundcloud embed.
+# Syntax: {% soundcloud track_id %}
+
+module Jekyll
+  class SoundCloud &lt; Liquid::Tag
+
+    def initialize(name, id, tokens)
+      super
+      @id = id
+    end
+
+
+    def render(context)
+      %(&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/#{@id.strip}&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;)
+    end
+  end
+end
+
+Liquid::Template.register_tag(&#39;soundcloud&#39;, Jekyll::SoundCloud)
+</code></pre></noscript></div>
+
+
+
+
+	</section>
+
+
+    </article>
+
+  
+    <article class="post">
+      
+	
+	<header class="post-header">
+		<span class="post-meta">16 Feb 2015</span>
+		<h2 class="post-title">
+			
 			<a href="/blog/2015/02/16/unusual-entities-glitch-remix/">
 			
 				Unusual Entities Glitch Remix</a>
