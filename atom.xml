@@ -4,7 +4,7 @@
   <title><![CDATA[A Thousand Tiny Cuts]]></title>
   <link href="http://jdhankle.github.io/atom.xml" rel="self"/>
   <link href="http://jdhankle.github.io/"/>
-  <updated>2015-03-16T22:40:04-04:00</updated>
+  <updated>2015-03-16T22:57:16-04:00</updated>
   <id>http://jdhankle.github.io/</id>
   <author>
     <name><![CDATA[Jared Hankle]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[アストロノーツ（ver れをる）]]></title>
+    <link href="http://jdhankle.github.io/blog/2015/03/16/asutoronoutsu-reol/"/>
+    <updated>2015-03-16T22:53:25-04:00</updated>
+    <id>http://jdhankle.github.io/blog/2015/03/16/asutoronoutsu-reol</id>
+    <content type="html"><![CDATA[<p>Such a beautiful song.</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/B776HM2cZWM" allowfullscreen></iframe></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ouch]]></title>
