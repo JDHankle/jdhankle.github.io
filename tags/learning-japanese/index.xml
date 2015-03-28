@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning Japanese on A Thousand Tiny Cuts</title>
+    <link>http://localhost:1313/tags/learning-japanese/</link>
+    <description>Recent content in Learning Japanese on A Thousand Tiny Cuts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 16 Feb 2015 00:31:03 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/learning-japanese/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Anki is my best friend.</title>
+      <link>http://localhost:1313/blog/2015/02/16/anki-is-my-best-friend</link>
+      <pubDate>Mon, 16 Feb 2015 00:31:03 -0500</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/02/16/anki-is-my-best-friend</guid>
+      <description>&lt;p&gt;&amp;lt;3&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://localhost:1313/images/anki.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

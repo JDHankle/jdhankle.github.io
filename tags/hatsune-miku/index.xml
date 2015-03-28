@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hatsune Miku on A Thousand Tiny Cuts</title>
+    <link>http://localhost:1313/tags/hatsune-miku/</link>
+    <description>Recent content in Hatsune Miku on A Thousand Tiny Cuts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 17 Feb 2015 02:38:12 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hatsune-miku/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ヒビカセ</title>
+      <link>http://localhost:1313/blog/2015/02/17/hibikase</link>
+      <pubDate>Tue, 17 Feb 2015 02:38:12 -0500</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/02/17/hibikase</guid>
+      <description>&lt;p&gt;感覚　即　体感&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.youtube.com/embed/TkroHwQYpFE&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

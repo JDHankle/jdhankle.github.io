@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on A Thousand Tiny Cuts</title>
+    <link>http://localhost:1313/categories/life/</link>
+    <description>Recent content in Life on A Thousand Tiny Cuts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 13 Mar 2015 02:13:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Redshift</title>
+      <link>http://localhost:1313/blog/2015/03/13/redshift</link>
+      <pubDate>Fri, 13 Mar 2015 02:13:08 -0400</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/03/13/redshift</guid>
+      <description>&lt;p&gt;One of my IRC friends suggested I use a program to tint my screen
+red. Sounds crazy, but it&amp;rsquo;s awesome.&lt;/p&gt;
+
+&lt;p&gt;No more headaches from my display.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://justgetflux.com/&#34;&gt;f.lux (OSX)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jonls.dk/redshift/&#34;&gt;redshift (Linux)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

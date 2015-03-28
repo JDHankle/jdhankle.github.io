@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vocaloid on A Thousand Tiny Cuts</title>
+    <link>http://localhost:1313/tags/vocaloid/</link>
+    <description>Recent content in Vocaloid on A Thousand Tiny Cuts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 16 Mar 2015 22:53:25 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/vocaloid/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>アストロノーツ（ver れをる）</title>
+      <link>http://localhost:1313/blog/2015/03/16/asutoronoutsu-reol</link>
+      <pubDate>Mon, 16 Mar 2015 22:53:25 -0400</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/03/16/asutoronoutsu-reol</guid>
+      <description>&lt;p&gt;Such a beautiful song.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.youtube.com/embed/B776HM2cZWM&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ヒビカセ</title>
+      <link>http://localhost:1313/blog/2015/02/17/hibikase</link>
+      <pubDate>Tue, 17 Feb 2015 02:38:12 -0500</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/02/17/hibikase</guid>
+      <description>&lt;p&gt;感覚　即　体感&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.youtube.com/embed/TkroHwQYpFE&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ECHO 和訳付</title>
+      <link>http://localhost:1313/blog/2015/02/16/echo</link>
+      <pubDate>Mon, 16 Feb 2015 01:01:25 -0500</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/02/16/echo</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;//www.youtube.com/embed/qDZChYnF7B0&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

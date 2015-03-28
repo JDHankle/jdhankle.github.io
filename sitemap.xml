@@ -1,103 +1,105 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/03/22/anime-in-a-single-sentence-your-lie-in-april/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2015-03-23T04:03:53-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/2015/03/23/anime-in-a-single-sentence-detective-conan</loc>
+    <lastmod>2015-03-23T04:03:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/2015/03/22/anime-in-a-single-sentence-your-lie-in-april</loc>
     <lastmod>2015-03-22T00:08:57-04:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/03/16/asutoronoutsu-reol/</loc>
+    <loc>http://localhost:1313/blog/2015/03/16/asutoronoutsu-reol</loc>
     <lastmod>2015-03-16T22:53:25-04:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/03/16/ouch/</loc>
+    <loc>http://localhost:1313/blog/2015/03/16/ouch</loc>
     <lastmod>2015-03-16T03:59:35-04:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/03/16/we-are-the-hearts/</loc>
+    <loc>http://localhost:1313/blog/2015/03/16/we-are-the-hearts</loc>
     <lastmod>2015-03-16T00:05:51-04:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/03/15/nyan-terminal/</loc>
+    <loc>http://localhost:1313/blog/2015/03/15/nyan-terminal</loc>
     <lastmod>2015-03-15T01:52:49-04:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/03/13/redshift/</loc>
+    <loc>http://localhost:1313/blog/2015/03/13/redshift</loc>
     <lastmod>2015-03-13T02:13:08-04:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/03/13/possible-api-for-moonflower/</loc>
+    <loc>http://localhost:1313/blog/2015/03/13/possible-api-for-moonflower</loc>
     <lastmod>2015-03-13T01:55:43-04:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/03/13/nyan-cat/</loc>
+    <loc>http://localhost:1313/blog/2015/03/13/nyan-cat</loc>
     <lastmod>2015-03-13T01:30:42-04:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/02/20/dangit-python/</loc>
+    <loc>http://localhost:1313/blog/2015/02/20/dangit-python</loc>
     <lastmod>2015-02-20T19:10:43-05:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/02/17/hibikase/</loc>
+    <loc>http://localhost:1313/blog/2015/02/17/hibikase</loc>
     <lastmod>2015-02-17T02:38:12-05:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/02/16/disable-plugin/</loc>
+    <loc>http://localhost:1313/blog/2015/02/16/disable-plugin</loc>
     <lastmod>2015-02-16T23:31:45-05:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/02/16/happiness-and-peace-of-mind-committee/</loc>
+    <loc>http://localhost:1313/blog/2015/02/16/happiness-and-peace-of-mind-committee</loc>
     <lastmod>2015-02-16T22:59:32-05:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/02/16/simple-soundcloud-octopress-plugin/</loc>
+    <loc>http://localhost:1313/blog/2015/02/16/simple-soundcloud-octopress-plugin</loc>
     <lastmod>2015-02-16T19:43:04-05:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/02/16/unusual-entities-glitch-remix/</loc>
+    <loc>http://localhost:1313/blog/2015/02/16/unusual-entities-glitch-remix</loc>
     <lastmod>2015-02-16T03:25:21-05:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/02/16/japanese-aliens/</loc>
+    <loc>http://localhost:1313/blog/2015/02/16/japanese-aliens</loc>
     <lastmod>2015-02-16T01:55:47-05:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/02/16/nothing-to-do/</loc>
+    <loc>http://localhost:1313/blog/2015/02/16/nothing-to-do</loc>
     <lastmod>2015-02-16T01:20:37-05:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/02/16/echo-he-yi-fu/</loc>
+    <loc>http://localhost:1313/blog/2015/02/16/echo</loc>
     <lastmod>2015-02-16T01:01:25-05:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://jdhankle.github.io/blog/2015/02/16/anki-is-my-best-friend/</loc>
+    <loc>http://localhost:1313/blog/2015/02/16/anki-is-my-best-friend</loc>
     <lastmod>2015-02-16T00:31:03-05:00</lastmod>
   </url>
-  <url>
-    <loc>http://jdhankle.github.io/blog/2015/02/16/new-computer/</loc>
-    <lastmod>2015-02-16T00:02:55-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://jdhankle.github.io/blog/archives/</loc>
-    <lastmod>2015-03-22T00:18:08-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://jdhankle.github.io/blog/</loc>
-    <lastmod>2015-03-22T00:18:08-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://jdhankle.github.io/archives/</loc>
-    <lastmod>2015-03-22T00:18:08-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://jdhankle.github.io/</loc>
-    <lastmod>2015-03-22T00:18:08-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://jdhankle.github.io/contact/</loc>
-    <lastmod>2015-03-22T00:18:08-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://jdhankle.github.io/about/</loc>
-    <lastmod>2015-03-22T00:18:08-04:00</lastmod>
-  </url>
+  
 </urlset>
