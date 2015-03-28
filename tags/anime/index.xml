@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anime on A Thousand Tiny Cuts</title>
-    <link>http://localhost:1313/tags/anime/</link>
+    <link>https://jdhankle.github.io/tags/anime/</link>
     <description>Recent content in Anime on A Thousand Tiny Cuts</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 23 Mar 2015 04:03:53 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/anime/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jdhankle.github.io/tags/anime/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anime in a Single Sentence: Detective Conan</title>
-      <link>http://localhost:1313/blog/2015/03/23/anime-in-a-single-sentence-detective-conan</link>
+      <link>https://jdhankle.github.io/blog/2015/03/23/anime-in-a-single-sentence-detective-conan</link>
       <pubDate>Mon, 23 Mar 2015 04:03:53 -0400</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/03/23/anime-in-a-single-sentence-detective-conan</guid>
+      <guid>https://jdhankle.github.io/blog/2015/03/23/anime-in-a-single-sentence-detective-conan</guid>
       <description>&lt;p&gt;The story of a boy who just so happens to witness every murder ever.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Anime In A Single Sentence: Your Lie in April</title>
-      <link>http://localhost:1313/blog/2015/03/22/anime-in-a-single-sentence-your-lie-in-april</link>
+      <link>https://jdhankle.github.io/blog/2015/03/22/anime-in-a-single-sentence-your-lie-in-april</link>
       <pubDate>Sun, 22 Mar 2015 00:08:57 -0400</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/03/22/anime-in-a-single-sentence-your-lie-in-april</guid>
+      <guid>https://jdhankle.github.io/blog/2015/03/22/anime-in-a-single-sentence-your-lie-in-april</guid>
       <description>&lt;p&gt;22 episodes of piano and death flags.&lt;/p&gt;
 </description>
     </item>

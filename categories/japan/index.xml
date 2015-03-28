@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Japan on A Thousand Tiny Cuts</title>
-    <link>http://localhost:1313/categories/japan/</link>
+    <link>https://jdhankle.github.io/categories/japan/</link>
     <description>Recent content in Japan on A Thousand Tiny Cuts</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 16 Mar 2015 22:53:25 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/japan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jdhankle.github.io/categories/japan/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>アストロノーツ（ver れをる）</title>
-      <link>http://localhost:1313/blog/2015/03/16/asutoronoutsu-reol</link>
+      <link>https://jdhankle.github.io/blog/2015/03/16/asutoronoutsu-reol</link>
       <pubDate>Mon, 16 Mar 2015 22:53:25 -0400</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/03/16/asutoronoutsu-reol</guid>
+      <guid>https://jdhankle.github.io/blog/2015/03/16/asutoronoutsu-reol</guid>
       <description>&lt;p&gt;Such a beautiful song.&lt;/p&gt;
 
 &lt;p&gt;&lt;iframe src=&#34;//www.youtube.com/embed/B776HM2cZWM&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
@@ -23,16 +23,16 @@
     
     <item>
       <title>Ouch</title>
-      <link>http://localhost:1313/blog/2015/03/16/ouch</link>
+      <link>https://jdhankle.github.io/blog/2015/03/16/ouch</link>
       <pubDate>Mon, 16 Mar 2015 03:59:35 -0400</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/03/16/ouch</guid>
+      <guid>https://jdhankle.github.io/blog/2015/03/16/ouch</guid>
       <description>&lt;p&gt;Dat friend zone.&lt;/p&gt;
 
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/images/friend-zone.png&#34; /&gt;
+        &lt;img src=&#34;https://jdhankle.github.io/images/friend-zone.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -42,10 +42,10 @@
     
     <item>
       <title>ヒビカセ</title>
-      <link>http://localhost:1313/blog/2015/02/17/hibikase</link>
+      <link>https://jdhankle.github.io/blog/2015/02/17/hibikase</link>
       <pubDate>Tue, 17 Feb 2015 02:38:12 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/17/hibikase</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/17/hibikase</guid>
       <description>&lt;p&gt;感覚　即　体感&lt;/p&gt;
 
 &lt;p&gt;&lt;iframe src=&#34;//www.youtube.com/embed/TkroHwQYpFE&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
@@ -55,24 +55,24 @@
     
     <item>
       <title>Happiness And Peace of Mind Committee</title>
-      <link>http://localhost:1313/blog/2015/02/16/happiness-and-peace-of-mind-committee</link>
+      <link>https://jdhankle.github.io/blog/2015/02/16/happiness-and-peace-of-mind-committee</link>
       <pubDate>Mon, 16 Feb 2015 22:59:32 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/16/happiness-and-peace-of-mind-committee</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/16/happiness-and-peace-of-mind-committee</guid>
       <description>&lt;p&gt;我々、幸福安心委員会は　みなさまの幸せを願い　そして、支えまーす。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Japanese Aliens.</title>
-      <link>http://localhost:1313/blog/2015/02/16/japanese-aliens</link>
+      <link>https://jdhankle.github.io/blog/2015/02/16/japanese-aliens</link>
       <pubDate>Mon, 16 Feb 2015 01:55:47 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/16/japanese-aliens</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/16/japanese-aliens</guid>
       <description>&lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/images/jitsu.jpg&#34; /&gt;
+        &lt;img src=&#34;https://jdhankle.github.io/images/jitsu.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -80,7 +80,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/images/aliens.jpg&#34; /&gt;
+        &lt;img src=&#34;https://jdhankle.github.io/images/aliens.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -90,10 +90,10 @@
     
     <item>
       <title>ECHO 和訳付</title>
-      <link>http://localhost:1313/blog/2015/02/16/echo</link>
+      <link>https://jdhankle.github.io/blog/2015/02/16/echo</link>
       <pubDate>Mon, 16 Feb 2015 01:01:25 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/16/echo</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/16/echo</guid>
       <description>&lt;p&gt;&lt;iframe src=&#34;//www.youtube.com/embed/qDZChYnF7B0&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 </description>

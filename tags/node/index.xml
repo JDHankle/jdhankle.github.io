@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Node on A Thousand Tiny Cuts</title>
-    <link>http://localhost:1313/tags/node/</link>
+    <link>https://jdhankle.github.io/tags/node/</link>
     <description>Recent content in Node on A Thousand Tiny Cuts</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 13 Mar 2015 01:55:43 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/node/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jdhankle.github.io/tags/node/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Possible API for Moonflower</title>
-      <link>http://localhost:1313/blog/2015/03/13/possible-api-for-moonflower</link>
+      <link>https://jdhankle.github.io/blog/2015/03/13/possible-api-for-moonflower</link>
       <pubDate>Fri, 13 Mar 2015 01:55:43 -0400</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/03/13/possible-api-for-moonflower</guid>
+      <guid>https://jdhankle.github.io/blog/2015/03/13/possible-api-for-moonflower</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been thinking about an API for a node-based IRC bot.
 This is what I&amp;rsquo;m thnking.&lt;/p&gt;
 
@@ -26,14 +26,14 @@ This is what I&amp;rsquo;m thnking.&lt;/p&gt;
     
     <item>
       <title>Nyan Cat</title>
-      <link>http://localhost:1313/blog/2015/03/13/nyan-cat</link>
+      <link>https://jdhankle.github.io/blog/2015/03/13/nyan-cat</link>
       <pubDate>Fri, 13 Mar 2015 01:30:42 -0400</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/03/13/nyan-cat</guid>
+      <guid>https://jdhankle.github.io/blog/2015/03/13/nyan-cat</guid>
       <description>&lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/images/nyan-cat.png&#34; /&gt;
+        &lt;img src=&#34;https://jdhankle.github.io/images/nyan-cat.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -43,10 +43,10 @@ This is what I&amp;rsquo;m thnking.&lt;/p&gt;
     
     <item>
       <title>Dangit Python</title>
-      <link>http://localhost:1313/blog/2015/02/20/dangit-python</link>
+      <link>https://jdhankle.github.io/blog/2015/02/20/dangit-python</link>
       <pubDate>Fri, 20 Feb 2015 19:10:43 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/20/dangit-python</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/20/dangit-python</guid>
       <description>&lt;p&gt;FFS&lt;/p&gt;
 
 &lt;p&gt;&lt;script src=&#34;https://gist.github.com/428bca7bf637f8ba34b3.js&#34;&gt;&lt;/script&gt;

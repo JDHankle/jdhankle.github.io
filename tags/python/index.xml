@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on A Thousand Tiny Cuts</title>
-    <link>http://localhost:1313/tags/python/</link>
+    <link>https://jdhankle.github.io/tags/python/</link>
     <description>Recent content in Python on A Thousand Tiny Cuts</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 20 Feb 2015 19:10:43 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jdhankle.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dangit Python</title>
-      <link>http://localhost:1313/blog/2015/02/20/dangit-python</link>
+      <link>https://jdhankle.github.io/blog/2015/02/20/dangit-python</link>
       <pubDate>Fri, 20 Feb 2015 19:10:43 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/20/dangit-python</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/20/dangit-python</guid>
       <description>&lt;p&gt;FFS&lt;/p&gt;
 
 &lt;p&gt;&lt;script src=&#34;https://gist.github.com/428bca7bf637f8ba34b3.js&#34;&gt;&lt;/script&gt;

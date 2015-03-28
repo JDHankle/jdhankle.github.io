@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Humor on A Thousand Tiny Cuts</title>
-    <link>http://localhost:1313/tags/humor/</link>
+    <link>https://jdhankle.github.io/tags/humor/</link>
     <description>Recent content in Humor on A Thousand Tiny Cuts</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 23 Mar 2015 04:03:53 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/humor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jdhankle.github.io/tags/humor/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anime in a Single Sentence: Detective Conan</title>
-      <link>http://localhost:1313/blog/2015/03/23/anime-in-a-single-sentence-detective-conan</link>
+      <link>https://jdhankle.github.io/blog/2015/03/23/anime-in-a-single-sentence-detective-conan</link>
       <pubDate>Mon, 23 Mar 2015 04:03:53 -0400</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/03/23/anime-in-a-single-sentence-detective-conan</guid>
+      <guid>https://jdhankle.github.io/blog/2015/03/23/anime-in-a-single-sentence-detective-conan</guid>
       <description>&lt;p&gt;The story of a boy who just so happens to witness every murder ever.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Anime In A Single Sentence: Your Lie in April</title>
-      <link>http://localhost:1313/blog/2015/03/22/anime-in-a-single-sentence-your-lie-in-april</link>
+      <link>https://jdhankle.github.io/blog/2015/03/22/anime-in-a-single-sentence-your-lie-in-april</link>
       <pubDate>Sun, 22 Mar 2015 00:08:57 -0400</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/03/22/anime-in-a-single-sentence-your-lie-in-april</guid>
+      <guid>https://jdhankle.github.io/blog/2015/03/22/anime-in-a-single-sentence-your-lie-in-april</guid>
       <description>&lt;p&gt;22 episodes of piano and death flags.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dangit Python</title>
-      <link>http://localhost:1313/blog/2015/02/20/dangit-python</link>
+      <link>https://jdhankle.github.io/blog/2015/02/20/dangit-python</link>
       <pubDate>Fri, 20 Feb 2015 19:10:43 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/20/dangit-python</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/20/dangit-python</guid>
       <description>&lt;p&gt;FFS&lt;/p&gt;
 
 &lt;p&gt;&lt;script src=&#34;https://gist.github.com/428bca7bf637f8ba34b3.js&#34;&gt;&lt;/script&gt;
@@ -43,14 +43,14 @@
     
     <item>
       <title>Japanese Aliens.</title>
-      <link>http://localhost:1313/blog/2015/02/16/japanese-aliens</link>
+      <link>https://jdhankle.github.io/blog/2015/02/16/japanese-aliens</link>
       <pubDate>Mon, 16 Feb 2015 01:55:47 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/16/japanese-aliens</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/16/japanese-aliens</guid>
       <description>&lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/images/jitsu.jpg&#34; /&gt;
+        &lt;img src=&#34;https://jdhankle.github.io/images/jitsu.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -58,7 +58,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/images/aliens.jpg&#34; /&gt;
+        &lt;img src=&#34;https://jdhankle.github.io/images/aliens.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -68,16 +68,16 @@
     
     <item>
       <title>Nothing to do.</title>
-      <link>http://localhost:1313/blog/2015/02/16/nothing-to-do</link>
+      <link>https://jdhankle.github.io/blog/2015/02/16/nothing-to-do</link>
       <pubDate>Mon, 16 Feb 2015 01:20:37 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/16/nothing-to-do</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/16/nothing-to-do</guid>
       <description>&lt;p&gt;Pacman, why are you so lazy?&lt;/p&gt;
 
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/images/nothing.png&#34; /&gt;
+        &lt;img src=&#34;https://jdhankle.github.io/images/nothing.png&#34; /&gt;
     
     
 &lt;/figure&gt;

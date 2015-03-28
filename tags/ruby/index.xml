@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruby on A Thousand Tiny Cuts</title>
-    <link>http://localhost:1313/tags/ruby/</link>
+    <link>https://jdhankle.github.io/tags/ruby/</link>
     <description>Recent content in Ruby on A Thousand Tiny Cuts</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 16 Feb 2015 23:31:45 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jdhankle.github.io/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Disable Plugin, Plugin</title>
-      <link>http://localhost:1313/blog/2015/02/16/disable-plugin</link>
+      <link>https://jdhankle.github.io/blog/2015/02/16/disable-plugin</link>
       <pubDate>Mon, 16 Feb 2015 23:31:45 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/16/disable-plugin</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/16/disable-plugin</guid>
       <description>&lt;p&gt;Allows you to create a plugin that disables and enables Cinch plugins.&lt;/p&gt;
 
 &lt;p&gt;&lt;script src=&#34;https://gist.github.com/9f070c089ce1de666148.js&#34;&gt;&lt;/script&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>Simple Soundcloud Octopress Plugin</title>
-      <link>http://localhost:1313/blog/2015/02/16/simple-soundcloud-octopress-plugin</link>
+      <link>https://jdhankle.github.io/blog/2015/02/16/simple-soundcloud-octopress-plugin</link>
       <pubDate>Mon, 16 Feb 2015 19:43:04 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/16/simple-soundcloud-octopress-plugin</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/16/simple-soundcloud-octopress-plugin</guid>
       <description>&lt;p&gt;Add it to your plugins folder.&lt;/p&gt;
 
 &lt;p&gt;&lt;script src=&#34;https://gist.github.com/c1572a89430b33c33dc4.js&#34;&gt;&lt;/script&gt;

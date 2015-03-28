@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on A Thousand Tiny Cuts</title>
-    <link>http://localhost:1313/categories/development/</link>
+    <link>https://jdhankle.github.io/categories/development/</link>
     <description>Recent content in Development on A Thousand Tiny Cuts</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 15 Mar 2015 01:52:49 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jdhankle.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nyan Terminal</title>
-      <link>http://localhost:1313/blog/2015/03/15/nyan-terminal</link>
+      <link>https://jdhankle.github.io/blog/2015/03/15/nyan-terminal</link>
       <pubDate>Sun, 15 Mar 2015 01:52:49 -0400</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/03/15/nyan-terminal</guid>
+      <guid>https://jdhankle.github.io/blog/2015/03/15/nyan-terminal</guid>
       <description>&lt;p&gt;MOAR NYAN&lt;/p&gt;
 
 &lt;p&gt;&lt;script src=&#34;https://gist.github.com/b5dcea2fa96ffc77cb9e.js&#34;&gt;&lt;/script&gt;
@@ -22,7 +22,7 @@
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/images/nyan-terminal.png&#34; /&gt;
+        &lt;img src=&#34;https://jdhankle.github.io/images/nyan-terminal.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -32,10 +32,10 @@
     
     <item>
       <title>Possible API for Moonflower</title>
-      <link>http://localhost:1313/blog/2015/03/13/possible-api-for-moonflower</link>
+      <link>https://jdhankle.github.io/blog/2015/03/13/possible-api-for-moonflower</link>
       <pubDate>Fri, 13 Mar 2015 01:55:43 -0400</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/03/13/possible-api-for-moonflower</guid>
+      <guid>https://jdhankle.github.io/blog/2015/03/13/possible-api-for-moonflower</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been thinking about an API for a node-based IRC bot.
 This is what I&amp;rsquo;m thnking.&lt;/p&gt;
 
@@ -48,14 +48,14 @@ This is what I&amp;rsquo;m thnking.&lt;/p&gt;
     
     <item>
       <title>Nyan Cat</title>
-      <link>http://localhost:1313/blog/2015/03/13/nyan-cat</link>
+      <link>https://jdhankle.github.io/blog/2015/03/13/nyan-cat</link>
       <pubDate>Fri, 13 Mar 2015 01:30:42 -0400</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/03/13/nyan-cat</guid>
+      <guid>https://jdhankle.github.io/blog/2015/03/13/nyan-cat</guid>
       <description>&lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/images/nyan-cat.png&#34; /&gt;
+        &lt;img src=&#34;https://jdhankle.github.io/images/nyan-cat.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -65,10 +65,10 @@ This is what I&amp;rsquo;m thnking.&lt;/p&gt;
     
     <item>
       <title>Dangit Python</title>
-      <link>http://localhost:1313/blog/2015/02/20/dangit-python</link>
+      <link>https://jdhankle.github.io/blog/2015/02/20/dangit-python</link>
       <pubDate>Fri, 20 Feb 2015 19:10:43 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/20/dangit-python</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/20/dangit-python</guid>
       <description>&lt;p&gt;FFS&lt;/p&gt;
 
 &lt;p&gt;&lt;script src=&#34;https://gist.github.com/428bca7bf637f8ba34b3.js&#34;&gt;&lt;/script&gt;
@@ -78,10 +78,10 @@ This is what I&amp;rsquo;m thnking.&lt;/p&gt;
     
     <item>
       <title>Disable Plugin, Plugin</title>
-      <link>http://localhost:1313/blog/2015/02/16/disable-plugin</link>
+      <link>https://jdhankle.github.io/blog/2015/02/16/disable-plugin</link>
       <pubDate>Mon, 16 Feb 2015 23:31:45 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/16/disable-plugin</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/16/disable-plugin</guid>
       <description>&lt;p&gt;Allows you to create a plugin that disables and enables Cinch plugins.&lt;/p&gt;
 
 &lt;p&gt;&lt;script src=&#34;https://gist.github.com/9f070c089ce1de666148.js&#34;&gt;&lt;/script&gt;
@@ -91,10 +91,10 @@ This is what I&amp;rsquo;m thnking.&lt;/p&gt;
     
     <item>
       <title>Simple Soundcloud Octopress Plugin</title>
-      <link>http://localhost:1313/blog/2015/02/16/simple-soundcloud-octopress-plugin</link>
+      <link>https://jdhankle.github.io/blog/2015/02/16/simple-soundcloud-octopress-plugin</link>
       <pubDate>Mon, 16 Feb 2015 19:43:04 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/16/simple-soundcloud-octopress-plugin</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/16/simple-soundcloud-octopress-plugin</guid>
       <description>&lt;p&gt;Add it to your plugins folder.&lt;/p&gt;
 
 &lt;p&gt;&lt;script src=&#34;https://gist.github.com/c1572a89430b33c33dc4.js&#34;&gt;&lt;/script&gt;
@@ -104,16 +104,16 @@ This is what I&amp;rsquo;m thnking.&lt;/p&gt;
     
     <item>
       <title>Nothing to do.</title>
-      <link>http://localhost:1313/blog/2015/02/16/nothing-to-do</link>
+      <link>https://jdhankle.github.io/blog/2015/02/16/nothing-to-do</link>
       <pubDate>Mon, 16 Feb 2015 01:20:37 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/16/nothing-to-do</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/16/nothing-to-do</guid>
       <description>&lt;p&gt;Pacman, why are you so lazy?&lt;/p&gt;
 
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/images/nothing.png&#34; /&gt;
+        &lt;img src=&#34;https://jdhankle.github.io/images/nothing.png&#34; /&gt;
     
     
 &lt;/figure&gt;

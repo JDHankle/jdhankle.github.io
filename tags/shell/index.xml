@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shell on A Thousand Tiny Cuts</title>
-    <link>http://localhost:1313/tags/shell/</link>
+    <link>https://jdhankle.github.io/tags/shell/</link>
     <description>Recent content in Shell on A Thousand Tiny Cuts</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 16 Feb 2015 01:20:37 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jdhankle.github.io/tags/shell/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nothing to do.</title>
-      <link>http://localhost:1313/blog/2015/02/16/nothing-to-do</link>
+      <link>https://jdhankle.github.io/blog/2015/02/16/nothing-to-do</link>
       <pubDate>Mon, 16 Feb 2015 01:20:37 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/16/nothing-to-do</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/16/nothing-to-do</guid>
       <description>&lt;p&gt;Pacman, why are you so lazy?&lt;/p&gt;
 
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/images/nothing.png&#34; /&gt;
+        &lt;img src=&#34;https://jdhankle.github.io/images/nothing.png&#34; /&gt;
     
     
 &lt;/figure&gt;

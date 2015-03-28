@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Glitch on A Thousand Tiny Cuts</title>
-    <link>http://localhost:1313/tags/glitch/</link>
+    <link>https://jdhankle.github.io/tags/glitch/</link>
     <description>Recent content in Glitch on A Thousand Tiny Cuts</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 16 Feb 2015 03:25:21 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/glitch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jdhankle.github.io/tags/glitch/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Unusual Entities Glitch Remix</title>
-      <link>http://localhost:1313/blog/2015/02/16/unusual-entities-glitch-remix</link>
+      <link>https://jdhankle.github.io/blog/2015/02/16/unusual-entities-glitch-remix</link>
       <pubDate>Mon, 16 Feb 2015 03:25:21 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/16/unusual-entities-glitch-remix</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/16/unusual-entities-glitch-remix</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;100%&#34; height=&#34;450&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/47229514&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&#34;&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 </description>

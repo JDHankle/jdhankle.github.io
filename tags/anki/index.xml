@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anki on A Thousand Tiny Cuts</title>
-    <link>http://localhost:1313/tags/anki/</link>
+    <link>https://jdhankle.github.io/tags/anki/</link>
     <description>Recent content in Anki on A Thousand Tiny Cuts</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 16 Feb 2015 00:31:03 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/anki/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jdhankle.github.io/tags/anki/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anki is my best friend.</title>
-      <link>http://localhost:1313/blog/2015/02/16/anki-is-my-best-friend</link>
+      <link>https://jdhankle.github.io/blog/2015/02/16/anki-is-my-best-friend</link>
       <pubDate>Mon, 16 Feb 2015 00:31:03 -0500</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/02/16/anki-is-my-best-friend</guid>
+      <guid>https://jdhankle.github.io/blog/2015/02/16/anki-is-my-best-friend</guid>
       <description>&lt;p&gt;&amp;lt;3&lt;/p&gt;
 
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/images/anki.png&#34; /&gt;
+        &lt;img src=&#34;https://jdhankle.github.io/images/anki.png&#34; /&gt;
     
     
 &lt;/figure&gt;
